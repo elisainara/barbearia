@@ -36,3 +36,15 @@ header div.container {
     display: flex;
 }
 
+footer {
+    text-align: center;
+    padding: 40px 0;
+    background-color: #BBBBBB;
+    margin-top: 50px;
+}
+
+.copyright {
+    color: aliceblue;
+    font-size: 13px;
+    margin: 20px 0 0;
+}
